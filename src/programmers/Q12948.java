@@ -1,6 +1,6 @@
 package programmers;
 
-public class Q12948 {
+public class Q12948 { //핸드폰 번호 가리기
     public static class Solution {
         public String solution(String phone_number) {
             String answer = "";
