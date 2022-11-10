@@ -1,6 +1,6 @@
 package programmers;
 
-public interface Q12947 { //하샤드 수
+public class Q12947 { //하샤드 수
     public static class Solution {
         public boolean solution(int x) {
             int sum = 0;
