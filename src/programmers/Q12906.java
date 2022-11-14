@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-public class Q12906 {
+public class Q12906 { //같은 숫자는 싫어
     public static class Solution {
         public int[] solution(int[] arr) {
             int num = 10;
