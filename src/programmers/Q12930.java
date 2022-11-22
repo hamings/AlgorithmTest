@@ -1,6 +1,6 @@
 package programmers;
 
-public class Q12930 {
+public class Q12930 { // 이상한 문자 만들기
     public static class Solution {
         public String solution(String s) {
             String answer = "";
