@@ -4,4 +4,4 @@ on b.writer_id = u.user_id
 where status='DONE' 
 group by b.writer_id,nickname
 having sum(price) >=700000
-order by 3 asc;
+order by total_sales asc;
